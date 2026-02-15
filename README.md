@@ -1,3 +1,7 @@
+***NOTE: YOUR FACING ANY ISSES PLEASE CONTACT - humanix.dmail.company@gmail.com***
+
+
+
 # Humanix — Small Python-implemented Systems Language
 
 Status: Working prototype (lexer → parser → interpreter)  
@@ -119,4 +123,7 @@ Save these examples as `.hx` files and run with `python main.py <file.hx>`.
 fn main() -> None {
     println(5 + 7);
 }
+
 ```
+
+
