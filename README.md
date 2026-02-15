@@ -1,4 +1,4 @@
-***NOTE: YOUR FACING ANY ISSES PLEASE CONTACT - humanix.dmail.company@gmail.com***
+***NOTE: IF YOU ARE FACING ANY ISSUES, PLEASE CONTACT - humanix.dmail.company@gmail.com***
 
 
 
@@ -125,5 +125,6 @@ fn main() -> None {
 }
 
 ```
+
 
 
