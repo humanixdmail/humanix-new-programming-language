@@ -6,6 +6,7 @@
 
 Status: Working prototype (lexer → parser → interpreter)  
 Current date: 2026-02-05
+
 Our website: humanix-v1.netlify.app
 
 This document summarizes the Humanix project as it stands: what the repository contains, how the toolchain works, supported syntax and features, how to run and debug, known limitations, and suggested next steps.
@@ -126,6 +127,7 @@ fn main() -> None {
 }
 
 ```
+
 
 
 
